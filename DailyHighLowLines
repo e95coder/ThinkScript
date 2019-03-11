@@ -1,3 +1,6 @@
+#create a new study and paste code below
+#use in a daily/1 minute chart by adding a study with the code below.
+
 #Daily Low Line
 plot LowDaily = low(period = AggregationPeriod.DAY);
 LowDaily.SetDefaultColor(Color.Red);
