@@ -1,4 +1,5 @@
 #comments are in hashtags
+#ThinkScript TOS Simple WEEKLY High Low Lines AmeriTrade, Day Trading, Swing Trading, Charting
 
 #snippet below instructions: create a study in ThinkOrSwim application, paste code below, click apply/ok to save, click apply again to add Study from the right panel to the left panel
 
