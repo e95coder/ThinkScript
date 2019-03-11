@@ -1,0 +1,13 @@
+#comments are in hashtags
+#similar to the daily script but use this in a 5 day 5 minute chart
+
+
+#Daily Low Line
+plot LowWeekly = low(period = AggregationPeriod.WEEK);
+LowWeekly.SetDefaultColor(Color.RED);
+LowWeekly.SetLineWeight(1);
+
+#Daily High Line
+plot HighWeekly = high(period = AggregationPeriod.WEEK);
+HighWeekly.SetDefaultColor(Color.GREEN);
+HighWeekly.SetLineWeight(1);
