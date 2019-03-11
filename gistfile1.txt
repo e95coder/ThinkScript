@@ -1,4 +1,7 @@
 #comments are in hashtags
+
+#snippet below instructions: create a study in ThinkOrSwim application, paste code below, click apply/ok to save, click apply again to add Study from the right panel to the left panel
+
 #similar to the daily script but use this in a 5 day 5 minute chart
 
 
