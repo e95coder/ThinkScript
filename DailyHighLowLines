@@ -1,0 +1,11 @@
+#Daily Low Line
+plot LowDaily = low(period = AggregationPeriod.DAY);
+#plot LowWeekly = low(period = AggregationPeriod.WEEK);
+LowDaily.SetDefaultColor(Color.Red);
+LowDaily.SetLineWeight(1);
+
+#Daily High Line
+plot HighDaily = high(period = AggregationPeriod.DAY);
+#plot HighWeekly = high(period = AggregationPeriod.WEEK);
+HighDaily.SetDefaultColor(Color.Green);
+HighDaily.SetLineWeight(1);
